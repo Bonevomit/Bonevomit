@@ -28,3 +28,4 @@ Improve logging
 Add new utility script
 Remove unused imports
 Change theme color
+Add test cases
