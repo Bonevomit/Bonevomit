@@ -24,3 +24,4 @@ Clean up codebase
 Improve error handling
 Tweak margin and padding
 Change theme color
+Improve logging
