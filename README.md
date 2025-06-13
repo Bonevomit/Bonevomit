@@ -21,3 +21,4 @@ Remove unused imports
 Fix bug in feature X
 Clean up codebase
 Clean up codebase
+Improve error handling
